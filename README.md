@@ -2,7 +2,7 @@
 - 📚 Education: Bachelor's in Computer Engineering 🎓
 - ✨ I’m interested in Cybersecurity 🔒, Software Development 💻, and Database Management 📊
 - 🌱 I’m currently learning more about Cybersecurity 🔒
-- 📫 How to reach me: lucasricz@gmail.com
+- 📫 How to reach me: lucasricz@gmail.com or https://www.linkedin.com/in/lucasricz/
 
 🚀 Join me as we explore the limitless possibilities of technology together! Feel free to connect, collaborate, and learn with me on this amazing GitHub platform. 🌍💻
 
