@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Lucas-Ricz
-- 📚 Education: Bachelor's in Computer Engineering 🎓
-- ✨ I’m interested in Cybersecurity 🔒, Software Development 💻, and Database Management 📊
-- 🌱 I’m currently learning more about Cybersecurity 🔒
+Lucas Ricz — Cloud Security Analyst ☁️
+- 📖 Education: Bachelor's in Computer Engineering 🎓
+- 🔐 Cloud Security (AWS): IAM, SGs, NACLs, KMS, GuardDuty, Security Hub, Detective
+- 🏢 Infra & Network Security: VPC, routing, segmentation, WAF (F5), Firewalls (FortiGate, Palo Alto)
+- 🤖 Automation & IaC: Lambda, CloudWatch, CloudTrail, governance, hardening
+- 🧰 Security Tools: CrowdStrike, Netskope, CSPM, DLP, PAM
+- 📚 Always learning more about cloud, security & automation
 - 📫 How to reach me: lucasricz@gmail.com or https://www.linkedin.com/in/lucasricz/
 
 🚀 Join me as we explore the limitless possibilities of technology together! Feel free to connect, collaborate, and learn with me on this amazing GitHub platform. 🌍💻
-
-<!---
-Lucas-Ricz/Lucas-Ricz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
